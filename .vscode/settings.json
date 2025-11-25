@@ -6,5 +6,13 @@
     "**/.DS_Store": true,
     "**/Thumbs.db": true,
     ".mule": true
-  }
+  },
+  "accessibility.signals.clear": {
+    "sound": "off"
+  },
+  "accessibility.signals.lineHasError": {
+    "sound": "off"
+  },
+  // ... add other specific signal settings as needed
+  "terminal.integrated.enableBell": false
 }
